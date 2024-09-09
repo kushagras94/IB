@@ -1,0 +1,3 @@
+streamlit  # Required for Streamlit app
+discord.py  # For Discord bot
+requests  # For making HTTP requests
