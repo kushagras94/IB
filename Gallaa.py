@@ -4,6 +4,8 @@ import requests
 from dotenv import load_dotenv
 from io import BytesIO
 
+load_dotenv()
+
 # Set up your Discord bot token
 DISCORD_BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN")
 
